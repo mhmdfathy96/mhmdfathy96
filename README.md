@@ -30,12 +30,20 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 
 ## 🚀 Projects
 
-- **[Biznavi App]**: HR Korean app using Flutter for Android and iOS. 
+- **[Bobёr App]**: Russina app provide services for users. 
+  - Google Play Store: STIll COOKING
+  - Apple Store: STIll COOKING
+
+- **[Party Player App]**: American app for watching/listening to songs. 
+  - Google Play Store: STIll COOKING
+  - Apple Store: STIll COOKING
+
+- **[Biznavi App]**: HR Korean app.
   - Google Play Store: IN PROGRESS
   - Apple Store: IN PROGRESS
 
 - **[MDone App]**: Iraqi medical app for booking appointments with doctors.
-  - <a href="https://play.google.com/store/apps/details?id=com.MindToCode.installment_project" target="_blank">Google Play Store</a>
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
   - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.

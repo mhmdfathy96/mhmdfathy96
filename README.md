@@ -34,22 +34,22 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
   - Google Play Store: IN PROGRESS
   - Apple Store: IN PROGRESS
 
-- **[MDone App](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)**: Iraqi medical app for booking appointments with doctors.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
+- **[MDone App]**: Iraqi medical app for booking appointments with doctors.
+  - <a href="https://play.google.com/store/apps/details?id=com.MindToCode.installment_project" target="_blank">Google Play Store</a>
   - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
-- **[Bridge App](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)**: A calendar app for k-pop artists and events.
+- **[Bridge App]**: A calendar app for k-pop artists and events.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)
   - Apple Store: IN PROGRESS
 
-- **[Elevator Sales App](https://github.com/yourusername/elevator-sales-app)**: Saudi app for handling contracts with employees and clients.
+- **[Elevator Sales App]**: Saudi app for handling contracts with employees and clients.
   - Client prefer not to publish his small business
 
-- **[Investment App](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)**: Manages business shares with partners.
+- **[Investment App]**: Manages business shares with partners.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_user)
 
-- **[Installment App](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)**: Handles merchant installments.
+- **[Installment App]**: Handles merchant installments.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)
   - Apple Store: IN PROGRESS
 

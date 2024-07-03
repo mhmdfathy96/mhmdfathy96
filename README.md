@@ -30,33 +30,30 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 
 ## 🚀 Projects
 
-- **[Biznavi App](https://play.google.com/store/apps/details?id=com.example.biznavi)**: HR Korean app using Flutter for Android and iOS. 
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.example.biznavi)
+- **[Biznavi App]**: HR Korean app using Flutter for Android and iOS. 
+  - Google Play Store: IN PROGRESS
   - Apple Store: IN PROGRESS
 
 - **[MDone App](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)**: Iraqi medical app for booking appointments with doctors.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
-  - Apple Store: IN PROGRESS
+  - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
 - **[Bridge App](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)**: A calendar app for k-pop artists and events.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)
   - Apple Store: IN PROGRESS
 
 - **[Elevator Sales App](https://github.com/yourusername/elevator-sales-app)**: Saudi app for handling contracts with employees and clients.
-  - Google Play Store: IN PROGRESS
-  - Apple Store: IN PROGRESS
+  - Client prefer not to publish his small business
 
-- **[Investment App](https://play.google.com/store/apps/details?id=com.MindToCode.investment_user)**: Manages business shares with partners.
+- **[Investment App](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)**: Manages business shares with partners.
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_user)
-  - Apple Store: IN PROGRESS
 
 - **[Installment App](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)**: Handles merchant installments.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)
   - Apple Store: IN PROGRESS
 
-- **[Net Café App](https://github.com/yourusername/net-cafe-app)**: Manages PlayStation places with rent time, drinks, and snacks.
-  - Google Play Store: IN PROGRESS
-  - Apple Store: IN PROGRESS
+- **[Net Café App]**: Manages PlayStation places with rent time, drinks, and snacks.
 
 ## 📈 GitHub Stats
 

@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
-- **GitHub:** [mhmdfathy96](https://www.github.com/mhmdfathy96)
+- **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
 
 ## 🔧 Technologies & Tools
 

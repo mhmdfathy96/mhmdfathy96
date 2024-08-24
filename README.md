@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 - **Nationality:** Egyptian
 - **Location:** Nasr City, Cairo, Egypt (Open to relocate outside of Egypt)
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
-- **Portfolio:** [fathy.mindtocode.org](https://fathy.mindtocode.org/)
+- **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)

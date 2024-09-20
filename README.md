@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 
 ## 🚀 Projects
 
-- **[Bobёr App]**: Russina app provide services for users. 
-  - Google Play Store: STIll COOKING
-  - Apple Store: STIll COOKING
+- **[Bobёr App]**: Kyrgyzstan app where you can find all specialists
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.easyliving.bober)
+  - [Apple Store](https://apps.apple.com/us/app/mdone/id6511249961)
 
 - **[Party Player App]**: American app for watching/listening to songs. 
   - Google Play Store: STIll COOKING
@@ -75,17 +75,20 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 
 ## 🛠 Skills
 
-- **Programming Languages:** Java, Kotlin, C#, Dart, PHP (Basics)
-- **Database:** MySQL, SQLite, Firebase
-- **Front-End:** XML, HTML, CSS, SASS
-- **Web Technologies:** jQuery (Basics)
-- **API:** RESTful API
-- **Design Patterns:** MVC, MVVM
+- **Programming Languages:** Dart, Java, Kotlin, C#, PHP (Basics)
+- **Mobile Development:** Flutter, Android (Java, Kotlin), iOS (Swift)
+- **UI/UX Design Integration:** Figma, Adobe XD
+- **State Management:** Provider, BLoC
+- **APIs:** RESTful API Integration, JSON, OAuth, JWT
+- **Databases:** Firebase, MySQL, SQLite
+- **Tools & IDEs:** Android Studio, VSCode, XCode, Codemagic
+- **Version Control:** Git, GitHub, Azure, BitBucket
+- **Architecture:** Clean Architecture, MVC, MVVM
 - **Project Management:** Agile Methodology (Scrum)
-- **UI Framework:** Flutter (State Management: Provider, BLoC)
-- **Version Control:** Git, GitHub
-- **Clean Architecture Code**
-- **IDEs:** VSCode, Android Studio, XCode
+- **CI/CD Pipelines:** Codemagic
+- **Cloud:** Firebase Cloud Functions, Google APIs, Firebase Notifications
+- **App Deployment:** Google Play, App Store, Continuous Integration
+- **Others:** In-App Purchases, Push Notifications
 
 ## 🌟 Soft Skills
 

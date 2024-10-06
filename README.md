@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 
 - **Full Name:** Mohamed Fat-hy Abdelsamee
 - **Nationality:** Egyptian
-- **Location:** Nasr City, Cairo, Egypt (Open to relocate outside of Egypt)
+- **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
+- **Phone:** +971502304061
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
 - **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)

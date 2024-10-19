@@ -34,18 +34,18 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 - **[Bobёr App]**: Kyrgyzstan app where you can find all specialists
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.easyliving.bober)
   - [Apple Store](https://apps.apple.com/us/app/mdone/id6511249961)
+ 
+- **[MDone App]**: Iraqi medical app for booking appointments with doctors.
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
+  - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
 - **[Party Player App]**: American app for watching/listening to songs. 
-  - Google Play Store: STIll COOKING
-  - Apple Store: STIll COOKING
+  - [Google Play Store](https://play.google.com/store/apps/details?id=pw.powernapps.partyplayer)
+  - [Apple Store](https://apps.apple.com/us/app/mdone/id6503223414)
 
 - **[Biznavi App]**: HR Korean app.
   - Google Play Store: IN PROGRESS
   - Apple Store: IN PROGRESS
-
-- **[MDone App]**: Iraqi medical app for booking appointments with doctors.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
-  - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)

@@ -37,31 +37,37 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6511249961)
  
 - **[MDone App]**: Iraqi medical app for booking appointments with doctors.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
-  - [Apple Store](https://apps.apple.com/us/app/mdone/id1591292710)
 
-- **[Party Player App]**: American app for watching/listening to songs. 
-  - [Google Play Store](https://play.google.com/store/apps/details?id=pw.powernapps.partyplayer)
-  - [Apple Store](https://apps.apple.com/us/app/mdone/id6503223414)
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pasma.iqdoctor.iqdoctors)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id1591292710)
+
+- **[Party Player App]**: American app for watching/listening to songs.
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pw.powernapps.partyplayer)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6503223414)
 
 - **[Biznavi App]**: HR Korean app.
   - Google Play Store: IN PROGRESS
   - Apple Store: IN PROGRESS
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)
-  - Apple Store: IN PROGRESS
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)  
+  Apple Store: IN PROGRESS
 
 - **[Elevator Sales App]**: Saudi app for handling contracts with employees and clients.
+  
   - Client prefer not to publish his small business
 
 - **[Investment App]**: Manages business shares with partners.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.investment_user)
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.MindToCode.investment_admin)  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.MindToCode.investment_user)
+
 
 - **[Installment App]**: Handles merchant installments.
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)
-  - Apple Store: IN PROGRESS
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.MindToCode.installment_project)
 
 - **[Net Café App]**: Manages PlayStation places with rent time, drinks, and snacks.
 

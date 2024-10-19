@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 ## 🚀 Projects
 
 - **[Bobёr App]**: Kyrgyzstan app where you can find all specialists
+  
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.easyliving.bober)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-(https://apps.apple.com/us/app/mdone/id6511249961)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6511249961)
 
 
  

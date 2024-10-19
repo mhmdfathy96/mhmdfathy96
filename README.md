@@ -32,8 +32,10 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 ## 🚀 Projects
 
 - **[Bobёr App]**: Kyrgyzstan app where you can find all specialists
-  [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.easyliving.bober)
-  [![Download on the App Store](https://upload.wikimedia.org/wikipedia/commons/9/95/Available_on_the_App_Store_%28black%29_SVG.svg)](https://apps.apple.com/us/app/mdone/id6511249961)
+  [[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.easyliving.bober)
+
+  [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1316044800)](https://apps.apple.com/us/app/mdone/id6511249961)
+
 
  
 - **[MDone App]**: Iraqi medical app for booking appointments with doctors.

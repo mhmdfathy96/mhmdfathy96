@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 - **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
 - **Phone:** +971502304061
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
+- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 - **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
 - **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
-- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 
 ## 🔧 Technologies & Tools
 

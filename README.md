@@ -1,6 +1,12 @@
 # Hi there, I'm Mohamed Fat-hy 👋
 
-Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engineer with a diverse range of skills and experiences. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate Flutter Developer with over three years of experience in mobile app development for Android
+and iOS. Proficient in developing high-performance, cross-platform applications using Flutter and
+Dart, with expertise in UI/UX design integration using Figma and Adobe XD. Skilled in managing
+CI/CD pipelines with Codemagic to automate the build, testing, and deployment process. Adept at
+working with RESTful APIs, Firebase, and Clean Code Architecture, and familiar with Agile
+development methodologies (Scrum). Open to relocation and eager to contribute to dynamic
+projects with a focus on innovation and efficiency.
 
 ## 🧑‍💻 About Me
 

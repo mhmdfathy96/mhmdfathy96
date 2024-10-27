@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer and Civil Engin
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
 - **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
+- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 
 ## 🔧 Technologies & Tools
 

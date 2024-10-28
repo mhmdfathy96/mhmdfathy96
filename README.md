@@ -38,7 +38,7 @@ projects with a focus on innovation and efficiency.
 
 ## 🚀 Projects
 
-- **[Bobёr App]**: Kyrgyzstan app where you can find all specialists
+- **[TOLTURA App]**: Kyrgyzstan app where you can find all specialists
   
   [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.easyliving.bober)
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6511249961)
@@ -54,8 +54,7 @@ projects with a focus on innovation and efficiency.
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6503223414)
 
 - **[Biznavi App]**: HR Korean app.
-  - Google Play Store: IN PROGRESS
-  - Apple Store: IN PROGRESS
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6503223414](https://apps.apple.com/app/id6504391675)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.
   

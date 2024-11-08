@@ -54,6 +54,7 @@ projects with a focus on innovation and efficiency.
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6503223414)
 
 - **[Biznavi App]**: HR Korean app.
+  
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6504391675)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.

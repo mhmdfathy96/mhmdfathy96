@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Fat-hy 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=mhmdfathy96&color=blue)
+# Hi there, I'm Mohamed Fat-hy 👋 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mhmdfathy96&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 Welcome to my GitHub profile! I'm a passionate Flutter Developer with over three years of experience in mobile app development for Android
 and iOS. Proficient in developing high-performance, cross-platform applications using Flutter and

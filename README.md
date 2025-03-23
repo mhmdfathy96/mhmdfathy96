@@ -13,7 +13,7 @@ projects with a focus on innovation and efficiency.
 - **Full Name:** Mohamed Fat-hy Abdelsamee
 - **Nationality:** Egyptian
 - **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
-- **Phone:** +971502304061
+- **Phone:** +201010784146 || +971502304061
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
 - **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 - **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)

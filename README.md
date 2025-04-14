@@ -8,13 +8,20 @@ working with RESTful APIs, Firebase, and Clean Code Architecture, and familiar w
 development methodologies (Scrum). Open to relocation and eager to contribute to dynamic
 projects with a focus on innovation and efficiency.
 
+## 📌 Showcase
+
+### [flutter_architecture_example](https://github.com/mhmdfathy96/flutter_architecture_example)
+
+A Flutter project template demonstrating clean architecture, modular code structure, and scalable state management. Designed to serve as a solid foundation for production-ready Flutter apps.
+
 ## 🧑‍💻 About Me
 
 - **Full Name:** Mohamed Fat-hy Abdelsamee
 - **Nationality:** Egyptian
-- **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
+- **Location:** Cairo, Egypt (open to relocate)
 - **Phone:** +201010784146 || +971502304061
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
+- **Flutter Architecture:** [Flutter project](https://github.com/mhmdfathy96/flutter_architecture_example)
 - **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 - **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)

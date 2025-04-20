@@ -14,6 +14,10 @@ projects with a focus on innovation and efficiency.
 
 A Flutter project template demonstrating clean architecture, modular code structure, and scalable state management. Designed to serve as a solid foundation for production-ready Flutter apps.
 
+### [SimpleCRUDAPI](https://github.com/mhmdfathy96/SimpleCrudApi)
+
+A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Framework Core and SQL Server. Features environment-based connection strings, secure secret management, and GitHub Actions deployment to SmarterASP.NET. Includes a live Swagger UI for testing.
+
 ## 🧑‍💻 About Me
 
 - **Full Name:** Mohamed Fat-hy Abdelsamee

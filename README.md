@@ -22,16 +22,15 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 
 - **Full Name:** Mohamed Fat-hy Abdelsamee
 - **Nationality:** Egyptian
-- **Location:** Cairo, Egypt (open to relocate)
-- **Phone:** +201010784146 || +971502304061
+- **Phone:** +201010784146
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
-- **Flutter Architecture:** [Flutter project](https://github.com/mhmdfathy96/flutter_architecture_example)
+- **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
 - **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 - **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
-- **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
+
 
 ## 🔧 Technologies & Tools
 
@@ -129,4 +128,4 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 ## 🌐 Languages
 
 - **Arabic:** Fluent
-- **English:** Advanced
+- **English:** Proficient

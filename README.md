@@ -114,7 +114,7 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 - **CI/CD Pipelines:** Codemagic
 - **Cloud:** Firebase Cloud Functions, Google APIs, Firebase Notifications
 - **App Deployment:** Google Play, App Store, Continuous Integration
-- **Others:** In-App Purchases, Push Notifications
+- **Others:** In-App Purchases, Payment gateway Integration, Push Notifications 
 
 ## 🌟 Soft Skills
 

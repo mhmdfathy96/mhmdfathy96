@@ -93,10 +93,6 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 
 - **[Net Café App]**: Manages PlayStation places with rent time, drinks, and snacks.
 
-## 📈 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdfathy96&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)

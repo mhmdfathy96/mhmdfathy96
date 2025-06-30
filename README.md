@@ -48,10 +48,15 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 
 ## 🚀 Projects
 
+- **[3arabawy App]**: Egyptian app where you can buy/sell/rent cars, buy/sell car parts, provide services, buy/sell motorcycles
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.al3arabawy)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6746461302)
+
 - **[TOLTURA App]**: Kyrgyzstan app where you can find all specialists
   
   [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.easyliving.bober)
-  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6511249961)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6511249961)
  
 - **[MDone App]**: Iraqi medical app for booking appointments with doctors.
 
@@ -61,20 +66,20 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 - **[Party Player App]**: American app for watching/listening to songs.
   
   [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pw.powernapps.partyplayer)
-  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mdone/id6503223414)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6503223414)
 
 - **[Biznavi App]**: HR Korean app.
   
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yapoey.biz_navi_project)  
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6504391675)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.
   
   [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yapoey.bridgeProject&pli=1)  
-  Apple Store: IN PROGRESS
 
 - **[Elevator Sales App]**: Saudi app for handling contracts with employees and clients.
   
-  - Client prefer not to publish his small business
+  - Client prefer not to publish his business
 
 - **[Investment App]**: Manages business shares with partners.
   

@@ -51,7 +51,9 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 - **[3arabawy App]**: Egyptian app where you can buy/sell/rent cars, buy/sell car parts, provide services, buy/sell motorcycles
   
   [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.al3arabawy)
-  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6746461302)
+  [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6746461302)
+  [![AppGallery](https://img.shields.io/badge/Huawei_AppGallery-E50000?style=for-the-badge&logo=huawei&logoColor=white)](https://appgallery.huawei.com/#/app/C114735347)
+
 
 - **[TOLTURA App]**: Kyrgyzstan app where you can find all specialists
   

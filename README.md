@@ -69,7 +69,7 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 
 - **[Biznavi App]**: HR Korean app.
   
-  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yapoey.biz_navi_project)  
+  [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yapoey.biz_navi_project)
   [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6504391675)
 
 - **[Bridge App]**: A calendar app for k-pop artists and events.

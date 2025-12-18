@@ -41,7 +41,7 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode)
 
 ## Packages & Plugins
-- **device_orientation_detector** – Flutter plugin for detecting real device orientation using native motion and accelerometer sensors, even when screen rotation is locked (published on pub.dev).
+- **[device_orientation_detector](https://pub.dev/packages/device_orientation_detector)** – Flutter plugin for detecting real device orientation using native motion and accelerometer sensors, even when screen rotation is locked.
 
 ## 🚀 Projects
 

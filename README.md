@@ -1,12 +1,6 @@
 # Hi there, I'm Mohamed Fat-hy 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=mhmdfathy96&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate Flutter Developer with over three years of experience in mobile app development for Android
-and iOS. Proficient in developing high-performance, cross-platform applications using Flutter and
-Dart, with expertise in UI/UX design integration using Figma and Adobe XD. Skilled in managing
-CI/CD pipelines with Codemagic to automate the build, testing, and deployment process. Adept at
-working with RESTful APIs, Firebase, and Clean Code Architecture, and familiar with Agile
-development methodologies (Scrum). Open to relocation and eager to contribute to dynamic
-projects with a focus on innovation and efficiency.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with over 4 years of experience building scalable, high-performance applications, primarily in Flutter for Android and iOS. Strong foundation in software engineering principles, Clean Architecture, and API-driven systems, with hands-on experience integrating backend services and working with C#/.NET and Java (Spring Boot). Comfortable across the full development lifecycle, highly adaptable to new technologies, and open to backend and cross-stack roles.
 
 ## 📌 Showcase
 
@@ -45,6 +39,9 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-black?style=flat-square&logo=android-studio)
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode)
+
+## Packages & Plugins
+- **device_orientation_detector** – Flutter plugin for detecting real device orientation using native motion and accelerometer sensors, even when screen rotation is locked (published on pub.dev).
 
 ## 🚀 Projects
 

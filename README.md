@@ -8,9 +8,20 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 4 yea
 
 A Flutter project template demonstrating clean architecture, modular code structure, and scalable state management. Designed to serve as a solid foundation for production-ready Flutter apps.
 
+⭐ Technologies: Flutter, Dart, Clean Architecture, Modular State Management, Provider/BLoC patterns
+
 ### [SimpleCRUDAPI](https://github.com/mhmdfathy96/SimpleCrudApi)
 
 A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Framework Core and SQL Server. Features environment-based connection strings, secure secret management, and GitHub Actions deployment to SmarterASP.NET. Includes a live Swagger UI for testing.
+
+⭐ Technologies: .NET 8, C#, Entity Framework Core, SQL Server, Swagger, GitHub Actions
+
+### 🔁 Spring Data JPA CRUD API
+
+** [spring-data-jpa-crud](https://github.com/mhmdfathy96/spring-data-jpa-crud)**  
+A simple RESTful API built with Spring Boot and Spring Data JPA to demonstrate CRUD operations (Create, Read, Update, Delete) with pagination using PostgreSQL. Includes Swagger UI for interactive API testing.
+
+⭐ Technologies: Java, Spring Boot, Spring Data JPA, PostgreSQL, Swagger, Lombok  
 
 ## 🧑‍💻 About Me
 

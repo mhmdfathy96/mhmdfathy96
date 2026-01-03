@@ -16,9 +16,7 @@ A lightweight .NET 8 Web API demonstrating clean CRUD operations using Entity Fr
 
 ⭐ Technologies: .NET 8, C#, Entity Framework Core, SQL Server, Swagger, GitHub Actions
 
-### 🔁 Spring Data JPA CRUD API
-
-** [spring-data-jpa-crud](https://github.com/mhmdfathy96/spring-data-jpa-crud)**  
+### [Spring Data JPA CRUD API]([https://github.com/mhmdfathy96/SimpleCrudApi](https://github.com/mhmdfathy96/spring-data-jpa-crud))
 A simple RESTful API built with Spring Boot and Spring Data JPA to demonstrate CRUD operations (Create, Read, Update, Delete) with pagination using PostgreSQL. Includes Swagger UI for interactive API testing.
 
 ⭐ Technologies: Java, Spring Boot, Spring Data JPA, PostgreSQL, Swagger, Lombok  

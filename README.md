@@ -21,6 +21,18 @@ A simple RESTful API built with Spring Boot and Spring Data JPA to demonstrate C
 
 ⭐ Technologies: Java, Spring Boot, Spring Data JPA, PostgreSQL, Swagger, Lombok  
 
+### [E-commerce Backend API](https://github.com/mhmdfathy96/ecommerce-backend)
+
+A RESTful backend application built with Spring Boot for managing products and orders. Demonstrates CRUD operations with pagination, JWT-based authentication, Google OAuth2 login, role-based access control, and order processing with stock validation. Designed as a learning project to practice backend architecture, security, and data modeling.
+
+⭐ Technologies: Java, Spring Boot, Spring Data JPA, PostgreSQL, JWT, OAuth2 (Google), Swagger, Lombok, Maven
+
+### [E-commerce Frontend](https://github.com/mhmdfathy96/ecommerce-frontend)
+
+A frontend training project built with React and Vite for consuming a Spring Boot e-commerce backend API. Provides common e-commerce features such as product browsing, search with pagination, cart management, order tracking, and responsive UI. The project was created by customizing and adapting an existing template to match backend integration and learning requirements.
+
+⭐ Technologies: React 18, Vite, JavaScript, React Router, Axios, Bootstrap 5, Infinite Scroll, REST API Integration
+
 ## 🧑‍💻 About Me
 
 - **Full Name:** Mohamed Fat-hy Abdelsamee

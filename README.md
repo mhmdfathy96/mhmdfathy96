@@ -29,7 +29,7 @@ A simple RESTful API built with Spring Boot and Spring Data JPA to demonstrate C
 - **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
 - **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
 - **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
-- **Portfolio:** [fathy.mindtocode.org](http://fathy.mindtocode.org/)
+- **Portfolio:** [fat-hy.com/](fat-hy.com/)
 - **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)

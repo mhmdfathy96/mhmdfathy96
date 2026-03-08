@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Fat-hy 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=mhmdfathy96&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with over 4 years of experience building scalable, high-performance applications, primarily in Flutter for Android and iOS. Strong foundation in software engineering principles, Clean Architecture, and API-driven systems, with hands-on experience integrating backend services and working with C#/.NET and Java (Spring Boot). Comfortable across the full development lifecycle, highly adaptable to new technologies, and open to backend and cross-stack roles.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with over 5 years of experience building scalable, high-performance applications, primarily in Flutter for Android and iOS. Strong foundation in software engineering principles, Clean Architecture, and API-driven systems, with hands-on experience integrating backend services and working with C#/.NET and Java (Spring Boot). Comfortable across the full development lifecycle, highly adaptable to new technologies, and open to backend and cross-stack roles.
 
 ## 📌 Showcase
 

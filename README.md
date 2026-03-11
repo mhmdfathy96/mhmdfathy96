@@ -76,7 +76,7 @@ A frontend training project built with React and Vite for consuming a Spring Boo
 
 - **[GuruHub]**: GuruHub is a high-concurrency Learning Management System (LMS) ecosystem designed for secure, scalable course delivery.
   
-  [Check on portfolio](https://fat-hy.com/projects/guruhub-educational-platform)
+  [![View Portfolio](https://img.shields.io/badge/Check_Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fat-hy.com/projects/guruhub-educational-platform)
 
 - **[3arabawy App]**: Egyptian app where you can buy/sell/rent cars, buy/sell car parts, provide services, buy/sell motorcycles
   

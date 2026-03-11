@@ -1,23 +1,16 @@
 # Hi there, I'm Mohamed Fat-hy 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=mhmdfathy96&color=blue)
 
-Welcome to my GitHub profile! [cite_start]I'm a **Software Engineer** with over 5 years of experience building scalable, high-performance applications[cite: 3]. [cite_start]Currently, I am transitioning from mobile architecture [cite: 4] [cite_start]toward **Enterprise Backend solutions** and **Generative AI systems**[cite: 5]. [cite_start]I have a proven track record of leading cross-functional teams in fast-paced startup environments and delivering high reliability[cite: 5].
-
-* [cite_start]🌍 **Location:** New Cairo, Egypt (Open to relocation) [cite: 10]
-* [cite_start]🎖️ **Eligibility:** EU BlueCard eligible, supported by the Imagine Foundation [cite: 7]
-* [cite_start]🚀 **Focus:** Java/Spring Boot, Spring AI, and Flutter [cite: 3, 34, 42]
+Welcome to my GitHub profile! I'm a passionate Software Engineer (Java/Spring Boot, Flutter) with over 5 years of experience building scalable applications and robust backend solutions in the e-commerce, SaaS, and telehealth industries. Transitioning from mobile architecture to enterprise backend solutions and Generative AI systems. Proven track record of optimizing performance, leading cross-functional teams in fast-paced startup environments, and delivering high reliability. Open to relocation.
+EU BlueCard eligible, supported by German NGO Imagine Foundation
+(Germany-based NGO offering career coaching and integration support for international talent)
 
 ## 📌 Showcase
 
-### [GuruHub | Educational Platform]
-[cite_start]An enterprise-grade LMS ecosystem developed in 2026[cite: 64].
-* [cite_start]**Backend:** Java 21, Spring Boot 4.0.1, PostgreSQL[cite: 65].
-* [cite_start]**Key Features:** Engineered 168 secure RESTful endpoints and implemented enterprise-grade mobile security (SSL Pinning)[cite: 66, 67].
-* [cite_start]**Infrastructure:** Fully Dockerized for high-concurrency environments[cite: 65, 66].
+### [GuruHub | Educational Platform / LMS](https://fat-hy.com/projects/guruhub-educational-platform)
 
-### [3arabawy | Automotive E-commerce]
-* [cite_start]Acted as the primary technical consultant for backend architecture and API contracts[cite: 16].
-* [cite_start]Spearheaded a transition to a modular, event-driven architecture, resulting in a 30% performance boost[cite: 17].
-* [cite_start]Integrated Socket.IO microservices for real-time engagement[cite: 18].
+A full-stack Learning Management System (LMS) featuring backend services, a web admin dashboard, and a mobile application. Engineered a modular monolith backend exposing 168 secure REST API endpoints, with advanced features like a deterministic quiz engine, event-driven push notifications, and single-device session enforcement. Implemented enterprise-grade mobile security (SSL Pinning, freeRASP) and deployed the high-concurrency infrastructure using CI/CD pipelines and Docker.
+
+⭐ Technologies: Java 21, Spring Boot 4.0.1, Spring Modulith, Spring Security, PostgreSQL, Flutter, Vue 3, Vuetify, Firebase, Docker, Codemagic
 
 ### [flutter_architecture_example](https://github.com/mhmdfathy96/flutter_architecture_example)
 
@@ -48,12 +41,12 @@ A frontend training project built with React and Vite for consuming a Spring Boo
 - **Full Name:** Mohamed Fat-hy Abdelsamee
 - **Nationality:** Egyptian
 - **Phone:** +201010784146
-- **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
-- **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
-- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
 - **Portfolio:** [fat-hy.com](https://fat-hy.com)
-- **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
+- **CV:** [Mohamed Fat-hy CV](https://drive.google.com/file/d/13Xn1x8biFuNnQnIPybM-kno_OMv7yUpV/view)
+- **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
+- **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mhmdfathy96)
+- **Google Play Console:** [Mind to Code](https://play.google.com/store/apps/developer?id=Mind+to+Code)
 - **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
 
 
@@ -80,6 +73,10 @@ A frontend training project built with React and Vite for consuming a Spring Boo
 - **[device_orientation_detector](https://pub.dev/packages/device_orientation_detector)** – Flutter plugin for detecting real device orientation using native motion and accelerometer sensors, even when screen rotation is locked.
 
 ## 🚀 Projects
+
+- **[GuruHub]**: GuruHub is a high-concurrency Learning Management System (LMS) ecosystem designed for secure, scalable course delivery.
+  
+  [Check on portfolio](https://fat-hy.com/projects/guruhub-educational-platform)
 
 - **[3arabawy App]**: Egyptian app where you can buy/sell/rent cars, buy/sell car parts, provide services, buy/sell motorcycles
   
@@ -130,27 +127,26 @@ A frontend training project built with React and Vite for consuming a Spring Boo
 
 ## 📫 Contact Me
 
-* [cite_start]**Portfolio:** [fat-hy.com](https://fat-hy.com) [cite: 9]
-* [cite_start]**LinkedIn:** [linkedin.com/in/mhmdfathy96](https://linkedin.com/in/mhmdfathy96) [cite: 2]
-* [cite_start]**Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com) [cite: 2]
-* [cite_start]**Languages:** Arabic (Native), English (Proficient), German (Beginner) [cite: 45, 46]
+- **Email:** [mhmdfathy96@gmail.com](mailto:mhmdfathy96@gmail.com)
+- **LinkedIn:** [Mohamed Fat-hy](https://www.linkedin.com/in/mohamed-fat-hy-93ab81203/)
+- **Upwork:** [Mohamed Fat-hy on Upwork](https://www.upwork.com/freelancers/mofathy96)
+- **Portfolio:** [Portfolio](https://fat-hy.com)
 
 ## 🛠 Skills
 
-- **Programming Languages:** Dart, Java, Kotlin, C#, PHP (Basics)
-- **Mobile Development:** Flutter, Android (Java, Kotlin), iOS (Swift)
-- **UI/UX Design Integration:** Figma, Adobe XD
-- **State Management:** Provider, BLoC
-- **APIs:** RESTful API Integration, JSON, OAuth, JWT
-- **Databases:** Firebase, MySQL, SQLite
-- **Tools & IDEs:** Android Studio, VSCode, XCode, Codemagic
-- **Version Control:** Git, GitHub, Azure, BitBucket
-- **Architecture:** Clean Architecture, MVC, MVVM
-- **Project Management:** Agile Methodology (Scrum)
-- **CI/CD Pipelines:** Codemagic
-- **Cloud:** Firebase Cloud Functions, Google APIs, Firebase Notifications
-- **App Deployment:** Google Play, App Store, Continuous Integration
-- **Others:** In-App Purchases, Payment gateway Integration, Push Notifications 
+- **Programming Languages:** Java (21), Dart, C# (.NET Core), Kotlin, JavaScript
+- **Backend & Frameworks:** Spring Boot, Spring AI, .NET Core, Node.js, Spring Data JPA 
+- **Mobile Development:** Flutter (Android/iOS), Native Android (Java/Kotlin), iOS (Swift)
+- **State Management:** BLoC, Provider, Modular/Event-driven Architecture 
+- **Databases:** PostgreSQL, MSSQL (SQL Server), MySQL, Firebase, SQLite 
+- **APIs & Security:** RESTful APIs, Socket.IO, JWT, OAuth2, SSL Pinning 
+- **Infrastructure & Cloud:** Docker, VPS Management (Hostinger), Coolify, Google Cloud Run, Firebase
+- **CI/CD Pipelines:** GitHub Actions, Coolify, Codemagic 
+- **Architecture:** Clean Architecture, Modular Architecture, MVC, MVVM 
+- **UI/UX Design Integration:** Figma (Expert Implementation), Adobe XD 
+- **Version Control:** Git, GitHub, Azure DevOps, BitBucket 
+- **Project Management:** Agile (Scrum), Strategic Planning, Stakeholder Management 
+- **Others:** In-App Purchases (Receipt Validation), Payment Gateways, Real-time RTC/RTM (Agora)
 
 ## 🌟 Soft Skills
 
@@ -166,3 +162,4 @@ A frontend training project built with React and Vite for consuming a Spring Boo
 
 - **Arabic:** Fluent
 - **English:** Proficient
+- **German:** Beginner

@@ -6,6 +6,12 @@ EU BlueCard eligible, supported by German NGO Imagine Foundation
 
 ## 📌 Showcase
 
+### [Spring AI Demo Integrations (AIDemo)](https://github.com/mhmdfathy96/AIDemo)
+
+A comprehensive Spring Boot project demonstrating advanced Generative AI integrations using Spring AI. **The repository is structured across multiple branches, each dedicated to demonstrating a distinct Spring AI capability.** Features intelligent REST API endpoints, including dedicated branches for a `MovieController` (AI-driven insights and recommendations) and an `AudioGenController` (text-to-audio generation). Built to highlight scalable integration of Large Language Models (LLMs) and multimodal GenAI tools within an enterprise backend architecture.
+
+⭐ Technologies: Java 21, Spring Boot, Spring AI, Generative AI, REST API
+
 ### [GuruHub | Educational Platform / LMS](https://fat-hy.com/projects/guruhub-educational-platform)
 
 A full-stack Learning Management System (LMS) featuring backend services, a web admin dashboard, and a mobile application. Engineered a modular monolith backend exposing 168 secure REST API endpoints, with advanced features like a deterministic quiz engine, event-driven push notifications, and single-device session enforcement. Implemented enterprise-grade mobile security (SSL Pinning, freeRASP) and deployed the high-concurrency infrastructure using CI/CD pipelines and Docker.

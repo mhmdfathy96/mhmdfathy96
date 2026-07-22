@@ -12,9 +12,9 @@ For my full, always-up-to-date portfolio, projects, and contact details, visit:
 
 ## 📌 A few featured projects
 
-- **[GuruHub — Educational Platform / LMS](https://fat-hy.com/projects/guruhub-educational-platform)** — Full-stack LMS (Spring Modulith backend, 168 REST endpoints, Vue 3 admin, Flutter app).
-- **[Spring AI Demo Integrations](https://github.com/mhmdfathy96/AIDemo)** — Generative AI integrations built with Spring AI (LLMs + multimodal).
-- **[Flutter Architecture Example](https://github.com/mhmdfathy96/flutter_architecture_example)** — Clean-architecture Flutter template.
+- **[GuruHub — Educational Platform / LMS](https://fat-hy.com/projects/guruhub-educational-platform)** — Full-stack Learning Management System with backend services, an admin dashboard, and a mobile app.
+- **[Agentech Assistant — Multi-Tenant RAG Platform](https://fat-hy.com/projects/agentech-assistant-rag-platform)** — Production-grade "Custom AI Chatbot as a Service" letting businesses build AI assistants trained on their own data (80% tickets deflected).
+- **[3arabawy — Automotive Marketplace](https://fat-hy.com/projects/3arabawy-car-marketplace)** — Car marketplace app for buying, selling, and renting vehicles, parts, and services (50K+ downloads).
 
 > See all projects and case studies on **[fat-hy.com](https://fat-hy.com)**.
 
